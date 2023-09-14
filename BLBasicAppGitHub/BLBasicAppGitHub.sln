@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLBasicAppGitHub", "BLBasicAppGitHub.csproj", "{07EEB0F9-99FC-4FD5-A3F2-809832B055D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLBasicAppGitHubUnitTest", "..\BLBasicAppGitHubUnitTest\BLBasicAppGitHubUnitTest.csproj", "{0312D812-4AF3-4F8A-8ED6-46101588947F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EEB0F9-99FC-4FD5-A3F2-809832B055D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EEB0F9-99FC-4FD5-A3F2-809832B055D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EEB0F9-99FC-4FD5-A3F2-809832B055D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EEB0F9-99FC-4FD5-A3F2-809832B055D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0312D812-4AF3-4F8A-8ED6-46101588947F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0312D812-4AF3-4F8A-8ED6-46101588947F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0312D812-4AF3-4F8A-8ED6-46101588947F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0312D812-4AF3-4F8A-8ED6-46101588947F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B76A32-BF85-4FAD-90D1-1D3E4A719C82}
+	EndGlobalSection
+EndGlobal
